@@ -76,7 +76,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "img/resume.pdf"
+    URL: "img/LucianoCavazosResume.pdf"
 
   items:
     - title: "Personal Photography Instagram Page"
