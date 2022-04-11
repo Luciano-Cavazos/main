@@ -43,10 +43,10 @@ about:
 
     <br><br> I have previously built a photogrtaphy page on Instagram to over ten-thousand followers. I find strong interest in the data behind advertising.
     </p>'
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/luciano-cavazos/"
+  ###button:
+    #icon: "icon-smile-fill"
+    #btnText: "About Me"
+    #URL: "https://www.linkedin.com/in/luciano-cavazos/"###
   image:
     x: "img/msu.png"
     _2x: "img/msu.png"
@@ -89,7 +89,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Works"
   enable: true
 
   clients:
