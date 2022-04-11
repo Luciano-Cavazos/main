@@ -1,6 +1,6 @@
 baseURL = "https://luciano-cavazos.github.io/master"
 languageCode = "en-us"
-theme = "raditian-free-hugo-theme"
+theme = "radity"
 
 # Plugins
 [params.plugins]
