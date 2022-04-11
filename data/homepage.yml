@@ -97,7 +97,7 @@ client_and_work:
 
   works:
     - title: "Adidas Media Campaign Plan"
-      description: "A project I've done with a team while attending Michigan State University. This involved making a plan on an advertising campiagn for Adidas."
+      description: "A project I've done with a team while attending Michigan State University. This involved making a plan on a potential advertising campaign for Adidas."
       button:
         icon: "icon-arrow-right"
         btnText: "Project"
