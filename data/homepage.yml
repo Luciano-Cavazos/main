@@ -79,13 +79,19 @@ experience:
     URL: "img/LucianoCavazosResume.pdf"
 
   items:
-    - title: "Personal Photography Instagram Page"
-      company: "Grew a Instagram page to over ten-thousand followers by using my photography."
+      - title: "Social Media Influencer"
+      company: "Organically grew a TikTok page to over 10,000+ followers in less than 6 months through creative content strategy and consistent posting. Created a post every single dayObtained over 120,000+ likes.Obtained over 1,300,000 views by creating innovative and original content that resonated with viewers."
+      duration: "2022-Present"  
+      
+    - title: "Instagram Influencer"
+      company: 'Posted pictures of nature and city landscapes. Engaged with followers through comments and DMs, building a community of 10,000+ like-minded individuals.Increased engagement by 10% on average per post through the use of creative captions and hashtags"
       duration: "2016 - 2018"
 
     - title: "Small Clothing Brand"
-      company: "Started a clothing brand, created designs, handled customer relations, created website, and managed social media accounts."
+      company: "Designed Clothing: Used Photoshop and Illustrator to design new clothing items. Marketed Clothing: Used Facebook Ads and Google Ads to promote my brand, Developed targeted ad campaigns that improved click-through rate by 15%Handled Customer Relations:Resolved customer complaints and concerns in a timely manner, reducing the number of escalated issues by 30%. Managed Social Media Pages. :Managed the production of all social media content, including photos, videos, and copywriting, resulting in a 10% increase in engagement,Responded to comments on posts,Successfully set up KPI's to grow the social media pages and brand which resulted in a 20% increase in followers"
       duration: "2018-2020"
+      
+
 
 # Client & Work
 client_and_work:
