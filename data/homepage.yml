@@ -63,8 +63,12 @@ education:
     - university: "Allen Park High School"
       year: "2013-2017"
       degree: "High School Diploma"
-#works      
-works:
+#works   
+client_and_work:
+  title: "Works"
+  enable: true
+  clients:
+  works:
     - title: "Adidas Media Campaign Plan"
       description: "A project I've done with a team while attending Michigan State University. This involved making a plan on a potential advertising campaign for Adidas."
       button:
@@ -118,11 +122,7 @@ experience:
 
 
 # Client & Work
-client_and_work:
-  title: "Works"
-  enable: true
 
-  clients:
 
 
 
