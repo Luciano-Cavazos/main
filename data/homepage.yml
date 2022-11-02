@@ -63,6 +63,30 @@ education:
     - university: "Allen Park High School"
       year: "2013-2017"
       degree: "High School Diploma"
+#works      
+works:
+    - title: "Adidas Media Campaign Plan"
+      description: "A project I've done with a team while attending Michigan State University. This involved making a plan on a potential advertising campaign for Adidas."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Project"
+        URL: "img/Media-Planning.pdf"
+      image:
+        x: "img/works/adidaslogo.png"
+        _2x: "img/works/adidaslogo.png"
+      is_even: true
+    
+    - title: "Detroit Pistons Brand Insight"
+      description: "A project where I found the sentiment on social media about the Detroit Pistons and the demographics behind the users posting on social media platforms."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Project"
+        URL: "img/Detroit-Pistons-Brand-Insight-Report.pdf"
+      image:
+        x: "img/works/pistonslogo.png"
+        _2x: "img/works/pistonslogo.png"
+      is_even: true
+      
 
 # experience
 experience:
@@ -101,28 +125,6 @@ client_and_work:
   clients:
 
 
-  works:
-    - title: "Adidas Media Campaign Plan"
-      description: "A project I've done with a team while attending Michigan State University. This involved making a plan on a potential advertising campaign for Adidas."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Project"
-        URL: "img/Media-Planning.pdf"
-      image:
-        x: "img/works/adidaslogo.png"
-        _2x: "img/works/adidaslogo.png"
-      is_even: true
-    
-    - title: "Detroit Pistons Brand Insight"
-      description: "A project where I found the sentiment on social media about the Detroit Pistons and the demographics behind the users posting on social media platforms."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Project"
-        URL: "img/Detroit-Pistons-Brand-Insight-Report.pdf"
-      image:
-        x: "img/works/pistonslogo.png"
-        _2x: "img/works/pistonslogo.png"
-      is_even: true
 
 
 # testimonial
